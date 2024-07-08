@@ -32,9 +32,6 @@
 ![图片](https://images.scyanzu.com/open_source/word.png?imageView2/2/format/webp/w/960)
 ![图片](https://images.scyanzu.com/open_source/word2.png?imageView2/2/format/webp/w/960)
 
-### 小程序端部署视频教程的地址
-
-![图片](https://images.scyanzu.com/open_source/video.png?imageView2/2/format/webp/w/240)
 
 ## 部分功能截图  建议自己扫码体验
 | biu                                                                                      | biu                                                                                    | biu                                                                    |
@@ -47,6 +44,4 @@
 | ![图片](https://images.scyanzu.com/open_source/view/16.jpg?imageView2/2/format/webp/w/240) |![图片](https://images.scyanzu.com/open_source/view/17.jpg?imageView2/2/format/webp/w/240) |![图片](https://images.scyanzu.com/open_source/view/18.jpg?imageView2/2/format/webp/w/240) |
 | ![图片](https://images.scyanzu.com/open_source/view/19.jpg?imageView2/2/format/webp/w/240) |![图片](https://images.scyanzu.com/open_source/view/20.jpg?imageView2/2/format/webp/w/240) |
 
-
-![图片](https://images.scyanzu.com/open_source/wx_code.jpg?imageView2/2/format/webp/w/240)
 
