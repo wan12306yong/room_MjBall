@@ -1,19 +1,7 @@
-# 麻老板无人系统_小程序端_自助棋牌室_共享茶室_24小时无人系统_自助麻将馆源码
-
-### 开源了！！开源了！！开源了！！！
-
-### 本仓库是小程序端源码  支持独立部署
-#### 配套的服务端独立部署文件及教程 仓库地址：
-##### Gitee: https://gitee.com/PublicGuan/qipaishi_server2.git
-##### Github: https://github.com/q127981/qipaishi_server.git
-#### 完整部署视频教程及文件下载地址:
-#### https://gitee.com/PublicGuan/malaoban
+#无人系统_小程序端_自助棋牌室_共享茶室_24小时无人系统_自助麻将馆源码
 
 ## 项目说明
 #### 开发语言为微信原生JS开发，使用微信开发者工具进行开发和调试。
-#### 有详细的部署文档和视频教程。
-#### 本项目为小程序端源码，完整无加密，仅供个人学习与交流。
-#### 商用请联系我们授权，小程序+私有化部署只需要299元，永久授权。
 
 ## 功能介绍
 #### 本系统适用于无人值守场景（茶室、棋牌室、私人影院、台球室、运动场馆），主要功能流程为:顾客小程序下单预约—-自助开门—-开电—-云喇叭语音提醒。
@@ -24,10 +12,7 @@
 ### 首页支持自定义UI，并可提供多款免费UI 商业授权后找我们免费提供
 
 | biu                                                                                 | biu                                                                    | biu                                                                    |
-|-------------------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|
-| ![图片](https://images.scyanzu.com/open_source/b190e260-d4fa-4f93-a302-9d9c08a2adaa.jpg?imageView2/2/format/webp/w/240) |![图片](https://images.scyanzu.com/open_source/1df00428-65b5-4baf-a979-2f17fbb9012d.jpg?imageView2/2/format/webp/w/240)    |![图片](https://images.scyanzu.com/open_source/e48b7b47-ec72-438b-8910-9645fa28242a.jpg?imageView2/2/format/webp/w/240)     | 
-| ![图片](https://images.scyanzu.com/open_source/t0.jpg?imageView2/2/format/webp/w/240) |![图片](https://images.scyanzu.com/open_source/t1.jpg?imageView2/2/format/webp/w/240)     |![图片](https://images.scyanzu.com/open_source/t2.jpg?imageView2/2/format/webp/w/240)     | 
-| ![图片](https://images.scyanzu.com/open_source/t3.jpg?imageView2/2/format/webp/w/240) |![图片](https://images.scyanzu.com/open_source/t4.jpg?imageView2/2/format/webp/w/240)     |![图片](https://images.scyanzu.com/open_source/t5.jpg?imageView2/2/format/webp/w/240)     | 
+ 
 
 
 
@@ -62,10 +47,6 @@
 | ![图片](https://images.scyanzu.com/open_source/view/16.jpg?imageView2/2/format/webp/w/240) |![图片](https://images.scyanzu.com/open_source/view/17.jpg?imageView2/2/format/webp/w/240) |![图片](https://images.scyanzu.com/open_source/view/18.jpg?imageView2/2/format/webp/w/240) |
 | ![图片](https://images.scyanzu.com/open_source/view/19.jpg?imageView2/2/format/webp/w/240) |![图片](https://images.scyanzu.com/open_source/view/20.jpg?imageView2/2/format/webp/w/240) |
 
-
-
-## 联系我们
-#### 电话：15675555180 (微信同号，注明来意)
 
 ![图片](https://images.scyanzu.com/open_source/wx_code.jpg?imageView2/2/format/webp/w/240)
 
